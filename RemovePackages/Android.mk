@@ -15,8 +15,6 @@ LOCAL_OVERRIDES_PACKAGES := \
     GoogleTTS \
     Velvet \
     MaestroPrebuilt \
-    AndroidAutoStubPrebuilt \
-    AndroidAutoStub \
     talkback \
     SafetyHubPrebuilt \
     SoundAmplifierPrebuilt \
